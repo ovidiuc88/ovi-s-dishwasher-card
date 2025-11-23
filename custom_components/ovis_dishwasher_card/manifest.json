@@ -1,0 +1,11 @@
+{
+  "domain": "ovis_dishwasher_card",
+  "name": "Ovi's Dishwasher Card",
+  "version": "1.0.0",
+  "documentation": "https://example.com/docs",
+  "requirements": [],
+  "codeowners": [
+    "@anonymous"
+  ],
+  "config_flow": true
+}
