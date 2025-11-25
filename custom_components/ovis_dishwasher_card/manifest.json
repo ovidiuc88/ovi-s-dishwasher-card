@@ -1,11 +1,10 @@
 {
-  "domain": "ovis_dishwasher_card",
+  "domain": "ovi_dishwasher_card",
   "name": "Ovi's Dishwasher Card",
-  "version": "1.0.0",
-  "documentation": "https://example.com/docs",
+  "version": "1.0.1",
+  "documentation": "https://github.com/ovidiuc88/ovi-s-dishwasher-card/blob/main/README.md",
   "requirements": [],
-  "codeowners": [
-    "@anonymous"
-  ],
-  "config_flow": true
+  "codeowners": ["@ovidiuc88"],
+  "config_flow": true,
+  "iot_class": "local_polling"
 }
